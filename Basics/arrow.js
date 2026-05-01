@@ -55,3 +55,17 @@ console.log(addTwo(2,5));
 })("Pankaj");
 
  
+function addNumNew(num1,num2){
+    let total = num1+ num2
+    return total
+}
+
+console.log(addNumNew(25,23));
+function differenceNum(num1,num2){
+    let difference= num1-num2
+    return difference
+}
+console.log(differenceNum(23,25));
+
+
+
